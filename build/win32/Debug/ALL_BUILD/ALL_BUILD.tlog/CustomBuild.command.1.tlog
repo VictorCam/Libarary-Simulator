@@ -1,0 +1,10 @@
+^C:\USERS\VDCAM\DOCUMENTS\MEGA\MEGASYNC\3 CS WORK\CS162 C++ (TIM ALCON)\ASSIGN5\ASSIGN5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SC:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5" "-BC:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build" --check-stamp-file "C:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

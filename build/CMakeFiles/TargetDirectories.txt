@@ -1,0 +1,3 @@
+C:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build/CMakeFiles/library.dir
+C:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build/CMakeFiles/ZERO_CHECK.dir

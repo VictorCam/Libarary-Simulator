@@ -1,0 +1,10 @@
+^C:\USERS\VDCAM\DOCUMENTS\MEGA\MEGASYNC\3 CS WORK\CS162 C++ (TIM ALCON)\ASSIGN5\ASSIGN5\BUILD\CMAKEFILES\9F25A9F653C9B0926B743A5F3E605BD4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SC:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5" "-BC:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/vdcam/Documents/MEGA/MEGAsync/3 CS Work/CS162 C++ (Tim Alcon)/Assign5/Assign5/build/library.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

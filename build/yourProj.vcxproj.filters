@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\Album.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\Book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\Library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\LibraryItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\Movie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\Patron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\src\libMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\include\Album.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\include\Book.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\include\Library.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\include\LibraryItem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\include\Movie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\include\Patron.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vdcam\Documents\MEGA\MEGAsync\3 CS Work\CS162 C++ (Tim Alcon)\Assign5\Assign5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4009E503-3080-3B19-A4B5-109914332380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1CDA4B2C-0BC1-3C92-82E7-1762459B2550}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
